@@ -1,0 +1,5 @@
+{
+"corpus_name": "<PATH TO Corpus>",
+"project_id": "<google project id>",
+"location": "us-central1"
+}

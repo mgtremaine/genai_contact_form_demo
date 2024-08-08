@@ -1,0 +1,10 @@
+streamlit
+baserun
+vertexai
+pandas
+mysql-connector-python
+sendgrid
+argparse
+os
+time
+json

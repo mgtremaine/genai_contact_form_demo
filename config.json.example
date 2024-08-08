@@ -1,0 +1,10 @@
+{
+"servername":"<HOSTAME>",
+"username":"<DBUSER>",
+"password":"<DBPASSWORD>",
+"dbname":"<DBTABLE>",
+"baserun_id": "<BASERUN ID>",
+"baserun_key": "<BASERUN_KEY>",
+"sendgrid_key": "<SENDGRID_KEY>",
+"openai_key": "<OPENAI_KEY>"
+}
