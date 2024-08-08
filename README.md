@@ -47,12 +47,20 @@ To query the corpus using the generated `config_corpus.json` file, follow these 
     - Query the corpus using the provided query text
     - Return the response from the RAG model and Gemini using Vertex AI form google.
 
+### Step 3: Configure json files and setup database
+    See sql_tables.sql for example database layout.
+    You will need a google service account key as key.json (or change that in code)
+    The full streamlit demo uses Baserun.AI and OpenAI you get setup free accounts or
+    Recode these sections as needed.
+
 ### Additional Scripts 
 
 - [`contact_helpdesk.py`] contact_helpdesk.py"): Handles the contact form submission and response.
     This is full demo in streamlit and can use OpenAI via Baserun. It includes as `google_rag_query.py` as 
     an import.
 - [`contact_utils.py`] Contains utility functions for loading configurations and connecting to MySQL.
+- [`sql_tables.sql`] Contains the sql to create the 2 tables used in this demo.
+
 
 ### License
 
