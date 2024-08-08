@@ -30,7 +30,7 @@ To create a corpus and generate a `<project_id>_config_corpus.json` file, follow
     - Import files into the RAG Corpus
     - Generate a `config_corpus.json` file for use in the query script
 
-### Step 2: Query the Corpus off the comand-line via [`google_rag_query.py`] google_rag_query.py")
+### Step 2: Query the Corpus off the comand-line via [`google_rag_query.py`]")
 
 To query the corpus using the generated `config_corpus.json` file, follow these steps:
 
